@@ -1,0 +1,3 @@
+#!/busybox sh
+echo '    -- custom init --'
+exec /busybox ash
